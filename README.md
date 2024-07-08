@@ -15,8 +15,8 @@ This project contains end-to-end tests for the Qubika Sports Club Management Sys
 ## Configuration
 
 Create a `.env` file in the root directory with the following content:
-TEST_USER_EMAIL=your_test_email@example.com
-TEST_USER_PASSWORD=your_test_password
+- TEST_USER_EMAIL=your_test_email@example.com
+- TEST_USER_PASSWORD=your_test_password
 
 ## Running the Tests
 
